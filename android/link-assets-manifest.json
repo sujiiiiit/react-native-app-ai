@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter.woff2",
+      "sha1": "03d67f11d4c6bcdd6182f0bcebb26d11e8c13dd3"
+    },
+    {
+      "path": "assets/fonts/Syne Mono.ttf",
+      "sha1": "15e3ebdd792e477aba6774f021c5b6db5036e41b"
+    }
+  ]
+}

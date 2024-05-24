@@ -10,8 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "@google-cloud/dialogflow-cx": "^4.6.0",
+    "@google/generative-ai": "^0.7.1",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/native": "^6.1.17",
+    "axios": "^1.6.8",
+    "markdown-it": "^14.1.0",
     "react": "18.2.0",
-    "react-native": "0.73.7"
+    "react-native": "^0.73.7",
+    "react-native-document-picker": "^9.1.2",
+    "react-native-markdown-display": "^7.0.2",
+    "react-native-pdf": "^6.7.5",
+    "react-native-responsive-dimensions": "^3.1.1",
+    "react-native-svg": "^15.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -22,6 +33,7 @@
     "@react-native/metro-config": "0.73.5",
     "@react-native/typescript-config": "0.73.1",
     "@types/react": "^18.2.6",
+    "@types/react-native-pdf-lib": "^0.2.3",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.6.3",
     "eslint": "^8.19.0",
